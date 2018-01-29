@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "http://example.org/"
+baseURL = "https://vathsal.github.io/resume/"
 languageCode = "en-us"
 title = "!"
 theme = "forty"
